@@ -1,4 +1,6 @@
 # basicRecon
 A simple bash script for recon phase. 
-# usage
+# Usage:
+```
 bash basicRecon.sh -d target.com
+```
